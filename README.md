@@ -21,7 +21,6 @@ ___
 | numpy                | 1.19.2
 | pandas               | 1.1.4
 | scikit-learn         | 0.23.2
-| sklearn              | 0.0
 | streamlit            | 0.71.0
 ___
 ## Issues
