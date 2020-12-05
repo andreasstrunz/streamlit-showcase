@@ -1,5 +1,7 @@
 # streamlit-showcase
-Showcase using streamlit to create a web app showing the effects of sklearn classification algorithms including user interaction
+Showcase using streamlit to create a web app showing the effects of sklearn classification algorithms including user interaction.
+
+Published as a Heroku app here: https://streamlit-showcase.herokuapp.com/
 ___
 ## Last Update
 
